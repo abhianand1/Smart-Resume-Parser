@@ -1,0 +1,95 @@
+#title{
+  background-color: #EAC696;
+  width: 100%;
+  height: 100%;
+}
+
+.title-hero{
+  height:1500px;
+}
+
+.title-hero > h1{
+  /* position: absolute;
+  height: 40px; */
+  font-size: 90px;
+  color: #65451F !important;
+  font-family: "Crimson Text", serif;
+  letter-spacing: 2px;
+}
+
+.title-hero p{
+  font-family: "Nunito", sans-serif;
+  color: #765827;
+  font-size: 20px;
+}
+
+/* #beans-1{
+  position: absolute;
+  top: 543px;
+  left: 700px;
+}
+#beans-2{
+  position: absolute;
+  top: 543px;
+  left: 770px;
+}
+#beans-3{
+  position: absolute;
+  top: 543px;
+  right: 725px;
+} */
+
+.flex-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.flex-container1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: 0px;
+  padding-bottom: 40px;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+.about-me-heading{
+  font-family: "Crimson Text", serif;
+  color: #765827 !important;
+}
+
+#projects{
+  background-color: #C8AE7D;
+  width: 100%;
+  height: 100%;
+}
+
+#projects .projects-text{
+  font-family: "Crimson Text", serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #765827 !important;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.text-bg-dark {
+  color: #fff!important;
+  background-color: #65451F !important;
+  text-align: center;
+}
+
+.bottom-container{
+  padding-top: 60px;
+  display: flex;
+  justify-content: center;
+}

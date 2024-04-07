@@ -1,0 +1,4 @@
+The suggested skills for the role of a Data Scientist are:
+- Proficiency in programming languages such as Python, R, or SQL
+- Strong analytical and problem-solving skills
+- Knowledge
